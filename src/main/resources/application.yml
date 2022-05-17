@@ -10,8 +10,8 @@ eureka:
     hostname: peer1
     appname: eureka-cluster
   client:
-    registerWithEureka: true
-    fetchRegistery: true
+    registerWithEureka: false
+    fetchRegistery: false
     serviceUrl:
       defaultZone: http://peer2:8001/eureka/
 

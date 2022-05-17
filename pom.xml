@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>onwer-service</artifactId>
+    <artifactId>eureka-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>EurekaServer</name>
     <description>Shopping App EurekaServer Application</description>
